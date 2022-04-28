@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Intro to Artificial Intelligence
+    - course: Introduction to Artificial Intelligence
       institution: UC Berkeley
       time: Spring 22
     - course: Designing, Visualizing and Understanding Deep Neural Networks
@@ -34,16 +34,10 @@ education:
     - course: Efficient Algorithms and Intractable Problems
       institution: UC Berkeley
       time: Spring 22
-    - course: Introduction to Database Systems
-      institution: UC Berkeley
-      time: Spring 22
     - course: Data Structure
       institution: UC Berkeley
       time: Fall 21
     - course: Discrete Mathematics and Probability Theory
-      institution: UC Berkeley
-      time: Fall 21
-    - course: Concepts in Computing with Data
       institution: UC Berkeley
       time: Fall 21
 
@@ -55,12 +49,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/zelinewang
