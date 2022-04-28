@@ -3,6 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# Delete the sections in content/home/ that you don’t need (or set active to false in their front matter) 
+# and personalize the front matter options of the sections that you wish to keep by opening them in a text editor 
+# (such as by clicking the pencil icon in your GitHub project).
+
 title: Zelin Wang # Website name
 baseURL: 'https://example.com/' # Website URL
 
