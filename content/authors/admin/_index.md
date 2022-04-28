@@ -63,7 +63,7 @@ social:
     link: https://www.linkedin.com/in/zelin-wang-7ba496224/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
