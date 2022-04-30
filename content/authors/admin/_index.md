@@ -14,7 +14,7 @@ organizations:
     url: https://www.nju.edu.cn/en/main.psp
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student at Berkeley/Nanjing University 23'/Computer Science and GIS
+bio: Student at UC Berkeley/Nanjing University 23'
 
 # Interests to show in About widget
 interests:
@@ -22,7 +22,6 @@ interests:
   - Deep Learning
   - Computer Vision
   - Natural Language Processing
-  - Remote Sensing
   - Software Engineering
 
 # Education to show in About widget
@@ -31,7 +30,7 @@ Education:
     - course: BISP Program
       institution: University of California Berkeley
       time: Fall 21 - Spring 22
-    - course: Bachelor of Science (GIS)
+    - course: Bachelor of Science
       institution: Nanjing University
       time: Fall 19 - Spring 23
     # - course: Designing, Visualizing and Understanding Deep Neural Networks

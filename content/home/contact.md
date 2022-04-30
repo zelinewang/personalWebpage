@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zelinewang@berkeley.edu
+  email: wzl106097395@gmail.com
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -51,6 +52,12 @@ content:
   #     icon_pack: fas
   #     name: Zoom Me
   #     link: 'https://zoom.com'
+  contact_links:
+    - icon: wexin
+      icon_pack: fab
+      name: WeChat
+      link: https://drive.google.com/file/d/1Bs9aonXivLe1YwKDjn3xFJqf4rtB2Y5v/view?usp=sharing
+
 
 design:
   columns: '2'
