@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zelinewang@berkeley.edu
+  
   email: wzl106097395@gmail.com
   # phone: 888 888 88 88
   # address:
@@ -53,9 +54,9 @@ content:
   #     name: Zoom Me
   #     link: 'https://zoom.com'
   contact_links:
-    - icon: wexin
+    - icon: weixin
       icon_pack: fab
-      name: WeChat
+      name: Add Me on WeChat (Please clarify your purpose when sending requests.)
       link: https://drive.google.com/file/d/1Bs9aonXivLe1YwKDjn3xFJqf4rtB2Y5v/view?usp=sharing
 
 
