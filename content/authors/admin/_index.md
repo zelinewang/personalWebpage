@@ -12,6 +12,8 @@ role: Undergraduate
 organizations:
   - name: Nanjing University
     url: https://www.nju.edu.cn/en/main.psp
+  - name: UC Berkeley
+    url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Student at UC Berkeley/Nanjing University 23'
