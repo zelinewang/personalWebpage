@@ -21,10 +21,9 @@ bio: Student at UC Berkeley/Nanjing University 23'
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Deep Learning
+  - Deep Learning/Machine Learning
   - Computer Vision
-  - Natural Language Processing
-  - Software Engineering
+  - Geographic Information Science/Remote Sensing
 
 # Education to show in About widget
 Education:

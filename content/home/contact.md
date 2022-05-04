@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: zelinewang@berkeley.edu
+  email: wzl106097395@gmail.com
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
